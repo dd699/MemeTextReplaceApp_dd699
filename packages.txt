@@ -1,3 +1,1 @@
 fonts-noto-cjk
-libglib2.0-0
-libgl1
